@@ -1,0 +1,22 @@
+site_name: "Scienza delle Finanze"
+site_url: "https://valeriofiloso.github.io/sdf-helper/"
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+
+plugins:
+  - search
