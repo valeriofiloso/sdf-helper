@@ -1,4 +1,3 @@
 - Nello studio della scienza delle finanze, il nostro punto di vista è quello della società nel suo complesso.
-- Il benessere di questa società è generalmente rappresentato da una funzione di benessere sociale additiva di tipo **benthamiano**.
-
-$$U_s = U_c+U_p$$
+- Il benessere di questa società è generalmente rappresentato da una funzione di benessere sociale additiva di tipo **benthamiano**. $$U_s = U_c+U_p$$dove $U_s$ è il benessere sociale.
+- In genere siamo indifferenti rispetto ai due lati del mercato: l'utilità dei consumatori viene pesata esattamente come l'utilità dei produttori.
