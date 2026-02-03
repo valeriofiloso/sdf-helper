@@ -1,0 +1,1 @@
+ Quando su un grafico riportiamo una grandezza che rappresenta valori marginali tramite una curva, l'area sottostante corrisponde al valore totale.
