@@ -1,6 +1,6 @@
 # Welcome
 
-Benvenuto nel sito di supporto al corso di Scienza delle Finanze.
+Benvenuto sul sito di supporto al corso di Scienza delle Finanze.
 
 ## Contenuti
 

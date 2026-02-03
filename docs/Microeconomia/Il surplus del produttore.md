@@ -4,5 +4,5 @@ Ora immaginiamo che la stessa persona possa offrire più servizi, per esempio af
 
 Se raccogliessimo tutte queste soglie — il compenso minimo richiesto per la prima unità, per la seconda, per la terza — potremmo tracciarle in una curva di offerta. Ma, di nuovo, la curva non è il benessere. La curva indica solo quanto costa produrre l’ultima unità offerta, non quanto costa produrle tutte. Il benessere del produttore sta nello spazio tra il prezzo di mercato e la curva di offerta, ossia nella somma di tutte le differenze tra ciò che incassa e ciò che sarebbe stato disposto ad accettare. In scienza delle finanze, questo è essenziale: quando una tassa riduce il prezzo percepito dal produttore, non solo riduce il suo incasso, ma erode anche questo spazio invisibile di guadagno. Ed è proprio lì, in quell’area che spesso non viene guardata, che si giocano le decisioni di produrre o di ritirarsi dal mercato.
 
----
+## Grafico
 Cerchiamo ora di rappresentare graficamente il **surplus del produttore**
