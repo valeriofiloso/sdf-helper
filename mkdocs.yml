@@ -4,6 +4,9 @@ site_url: "https://valeriofiloso.github.io/sdf-helper/"
 theme:
   name: material
   language: it
+  font:
+    text: Source Serif Pro
+    code: Roboto Mono
   features:
     - navigation.sections
     - navigation.expand
